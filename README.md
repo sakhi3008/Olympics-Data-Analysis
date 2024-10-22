@@ -110,4 +110,4 @@ Below is an overview of the commit history and important changes:
   - "Completed data analysis and added conclusions"
   - "Finalized notebook with insights and visualizations"
 
-## View Code - [Olympics Data Analysis](Olympics Data Analysis.ipynb](https://github.com/sakhi3008/Olympics-Data-Analysis/blob/main/Olympics_Data_Analysis.ipynb)
+## View Code - [Olympics Data Analysis](https://github.com/sakhi3008/Olympics-Data-Analysis/blob/main/Olympics_Data_Analysis.ipynb)
