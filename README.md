@@ -28,19 +28,19 @@ The data for this analysis is sourced from [Olympics Data](https://docs.google.c
 ## Analysis
 This project includes various stages of data analysis to uncover insights from the Olympics data:
 
-**5-Point Statistical Summary:** Provided a summary for all columns in the dataset to understand the central tendency and dispersion.
+- **5-Point Statistical Summary:** Provided a summary for all columns in the dataset to understand the central tendency and dispersion.
 
-**Handling Missing Values:** Filled missing values using the mean for numerical columns and median for text-based columns.
+- **Handling Missing Values:** Filled missing values using the mean for numerical columns and median for text-based columns.
 
-**Correlation Analysis:** Analyzed relationships between numerical variables, such as age, height, and weight, to identify significant associations.
+- **Correlation Analysis:** Analyzed relationships between numerical variables, such as age, height, and weight, to identify significant associations.
 
-**Medal Counts:** Investigated the total number of medals won by each country and gender.
+- **Medal Counts:** Investigated the total number of medals won by each country and gender.
 
-**Event Performance:** Explored participation and medal trends across different sports.
+- **Event Performance:** Explored participation and medal trends across different sports.
 
-**Gender-Based Analysis:** Assessed the relationships between age, weight, and height, focusing on differences between male and female athletes.
+- **Gender-Based Analysis:** Assessed the relationships between age, weight, and height, focusing on differences between male and female athletes.
 
-**Time Trends:** Examined how athlete characteristics, performance, and medal distributions have evolved over time.
+- **Time Trends:** Examined how athlete characteristics, performance, and medal distributions have evolved over time.
 
 ## Visualizations
 The analysis features several visualizations to illustrate key insights:
@@ -87,27 +87,27 @@ Below is an overview of the commit history and important changes:
 
 **Initial Setup:**
 
-  - "Initial commit: Added Olympics data analysis notebook"
-  - "Upload initial analysis script for Olympics data"
+  - **Initial commit:** Added Olympics data analysis notebook
+  - Upload initial analysis script for Olympics data
 
  **Data Cleaning and Preprocessing:**
  
-  - "Performed data cleaning: filled missing values in 'Height' column"
-  - "Cleaned dataset by handling missing data and outliers"
+  - **Performed data cleaning:** filled missing values in 'Height' column
+  - Cleaned dataset by handling missing data and outliers
 
   **Data Analysis:**
   
-  - "Analyzed medal counts by country"
-  - "Explored trends in athlete performance over the years"
+  - Analyzed medal counts by country
+  - Explored trends in athlete performance over the years
     
   **Visualizations:**
   
-  - "Added visualizations for medal distribution by country"
-  - "Created line chart showing performance trends over time"
+  - Added visualizations for medal distribution by country
+  - Created line chart showing performance trends over time
 
   **Finalizing the Project:**
   
-  - "Completed data analysis and added conclusions"
-  - "Finalized notebook with insights and visualizations"
+  - Completed data analysis and added conclusions
+  - Finalized notebook with insights and visualizations
 
 ## View Code - [Olympics Data Analysis](https://github.com/sakhi3008/Olympics-Data-Analysis/blob/main/Olympics_Data_Analysis.ipynb)
